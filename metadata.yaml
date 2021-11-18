@@ -1,0 +1,48 @@
+_repo: Problem-Planet_66590
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Terry, W. E.
+    aliases:
+    - Terry, Willis E.
+    - Terry, Bill
+    birthdate: 1921
+    deathdate: 1992
+    gutenberg_agent_id: '34265'
+    url: http://www.gutenberg.org/2009/agents/34265
+creator:
+  author:
+    agent_name: Winterbotham, R. R. (Russell Robert)
+    aliases:
+    - Winterbotham, Russell Robert
+    - Winterbotham, R.R.
+    - Winterbotham, Russ
+    birthdate: 1904
+    deathdate: 1971
+    gutenberg_agent_id: '25195'
+    url: http://www.gutenberg.org/2009/agents/25195
+    wikipedia: https://en.wikipedia.org/wiki/Russell_R._Winterbotham
+description: ''
+gutenberg_issued: '2021-10-22'
+identifiers:
+  gutenberg: '66590'
+language: en
+pgterms:marc905: 20210313050059winterboth
+pgterms:marc906: '1955'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Greenleaf Publishing Company,1955.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Castaways -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Interpersonal relations -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Problem Planet
+url: http://www.gutenberg.org/ebooks/66590
