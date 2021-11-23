@@ -10,6 +10,9 @@ contributor:
     deathdate: 1992
     gutenberg_agent_id: '34265'
     url: http://www.gutenberg.org/2009/agents/34265
+covers:
+- cover_type: archival
+  image_path: 66590-h/images/cover.jpg
 creator:
   author:
     agent_name: Winterbotham, R. R. (Russell Robert)
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25195
     wikipedia: https://en.wikipedia.org/wiki/Russell_R._Winterbotham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66590#Problem-Planet
 gutenberg_issued: '2021-10-22'
 identifiers:
   gutenberg: '66590'
